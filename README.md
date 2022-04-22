@@ -1,4 +1,4 @@
-# [Youtube Uploader Bot](https://tx.me/youtubeitbot)
+# [Youtube Uploader Bot](https://tx.me/TgtoUtubebot)
 
 > Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "YouTube") written in Python3.
 
@@ -39,6 +39,15 @@ $ python3 -m venv venv
 $ source venv/bin/activate
 
 ```
+Bot Commands
+ 
+ (You need to be an admin or Auth User in order to use these commands)
+ > Admin Commands
+* /start - Start Bot 
+* /help - Get Help
+* /authorise - Getup authorization
+* /upload - Upload to YouTube(Reply to video)
+* /donate - Support project.
 
 **Environment Variables**
 
